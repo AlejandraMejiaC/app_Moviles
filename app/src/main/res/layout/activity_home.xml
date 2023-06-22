@@ -34,7 +34,7 @@
 
     <Button
         android:id="@+id/botonhoteles"
-        android:backgroundTint="@color/purple_200"
+        android:background="@drawable/botonredondo"
         android:text="Hoteles"
         android:layout_marginHorizontal="30dp"
         android:layout_width="match_parent"
